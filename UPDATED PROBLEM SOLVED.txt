@@ -1,0 +1,4 @@
+In version 2.0 of the program of Hospital Management using AVL Tree,
+we have updated the main menu of program with an option to add all the nodes of the balanced
+AVL tree in ascending order.
+to the txt file(In this case Sorted_records.txt)

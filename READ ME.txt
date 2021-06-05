@@ -1,0 +1,7 @@
+About the code: Functions and main driver program are seperately defined using multiple files
+		A server file with .h extension is used to store definitions of all functions.
+COMPILATION: Compilation is done using makefile concept.
+
+COMMAND TO EXECUTE:
+			-> make -f makefile.txt
+			-> main
